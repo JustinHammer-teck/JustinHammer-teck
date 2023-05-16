@@ -1,19 +1,27 @@
-<h1 style="color: #44AEFB;"> Nguyễn Đình Nhật Tài</h1>
+<h1 style="color: #44AEFB;">welcome to Nguyễn Đình Nhật Tài profile <a href="https://emoji.gg/emoji/9599-peepohappy"><img src="https://cdn3.emoji.gg/emojis/9599-peepohappy.png" width="40px" height="40px" alt="PeepoHappy"></a></h1>
+
+
+[![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
 <br>
 <br>
-<div align="center">
-  
-[Email Me](mailto:nguyendinhnhattai.it@gmail.com)
+
+<h2 style="color: #44AEFB"> Follow me on Social</h2>
+<div align="left">
+    <a href="https://www.linkedin.com/in/nguyendinhnhattai1999/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="to:nguyendinhnhattai.it@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
 </div>
+
 </p>    
 <br>
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
+
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -67,6 +75,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
      <img  alt="linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </a>
+  <a href="https://nomadproject.io">
+    <img alt="HashiCorp Nomad logo" src="assets/logo-hashicorp.svg" width="200" />
+  </a>
+
 </div>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>

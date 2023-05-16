@@ -1,9 +1,5 @@
 <h1 style="color: #44AEFB;"> Nguyễn Đình Nhật Tài</h1>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1215-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
-
 <br>
 <br>
 <div align="center">

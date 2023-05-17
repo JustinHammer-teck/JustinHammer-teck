@@ -3,10 +3,19 @@
 
 [![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
+### 🔭 I’m currently working on:  [Wordle Solver](https://github.com/JustinHammer-teck/Vue-WordleWizard)
+
+### 🌱 I’m currently learning : Hashicorp Stack, Rust, Azure 900
+
 <br>
 <br>
 
-<h2 style="color: #44AEFB"> Follow me on Social</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JustinHammer-teck&label=Profile%20views&color=0e75b6&style=flat" alt="justinhammer-teck" /> </p>
+
+<br>
+<br>
+
+<h2 style="color: #44AEFB">📫 How to reach me</h2>
 <div align="left">
     <a href="https://www.linkedin.com/in/nguyendinhnhattai1999/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

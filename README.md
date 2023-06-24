@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently working on:  [Wordle Solver](https://github.com/JustinHammer-teck/Vue-WordleWizard)
 
-### 🌱 I’m currently learning : Hashicorp Stack, Rust, Azure 900
+### 🌱 I’m currently learning : Hashicorp Stack, GO, AWS Cloud Practitioner
 
 <br>
 <br>
@@ -42,9 +42,9 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
       <img  alt="c-sharp" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a>
-  <a href="[https://dotnet.microsoft.com/en-us/languages/csharp](https://www.rust-lang.org/)" target="_blank" rel="noreferrer">
+<!--   <a href="[https://dotnet.microsoft.com/en-us/languages/csharp](https://www.rust-lang.org/)" target="_blank" rel="noreferrer">
       <img  alt="rust-lang" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  </a>
+  </a> -->
   <a href="https://www.vuejs.org/" target="_blank" rel="noreferrer">
       <img  alt="VueJS" height="50px" style="padding-right:10px; ;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </a>
@@ -63,9 +63,9 @@
   <a href="[https://sass-lang.com/](https://tailwindcss.com/)" target="_blank" rel="noreferrer">
       <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </a>
-  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
+<!--   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
       <img  alt="Azure" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>

@@ -3,7 +3,7 @@
 
 [![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
-### 🔭 I’m currently working on:  [Wordle Solver](https://github.com/JustinHammer-teck/Vue-WordleWizard)
+### 🔭 I’m currently working on: 
 
 ### 🌱 I’m currently learning : Hashicorp Stack, GO, AWS Cloud Practitioner
 
@@ -42,23 +42,14 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
       <img  alt="c-sharp" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a>
-<!--   <a href="[https://dotnet.microsoft.com/en-us/languages/csharp](https://www.rust-lang.org/)" target="_blank" rel="noreferrer">
-      <img  alt="rust-lang" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  </a> -->
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img  alt="golang" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  </a>
   <a href="https://www.vuejs.org/" target="_blank" rel="noreferrer">
       <img  alt="VueJS" height="50px" style="padding-right:10px; ;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
   <a href="[https://sass-lang.com/](https://tailwindcss.com/)" target="_blank" rel="noreferrer">
       <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -75,17 +66,11 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-     <img   alt="jetbrain" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-  </a>
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-     <img  alt="vscode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-     <img  alt="linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+     <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </a>
   <a href="https://nomadproject.io">
-    <img alt="HashiCorp Nomad logo" src="assets/logo-hashicorp.svg" width="200" />
+    <img alt="HashiCorp Nomad" src="assets/logo-hashicorp.svg" width="200" />
   </a>
 
 </div>

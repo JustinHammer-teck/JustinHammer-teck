@@ -3,9 +3,9 @@
 
 [![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
-### 🔭 I’m currently working on: 
+### 🔭 I’m currently working on: Python Cli, Event Driven Design, Design Pattern, Data structure & Algorithm
 
-### 🌱 I’m currently learning : Hashicorp Stack, GO, AWS Cloud Practitioner
+### 🌱 I’m currently learning : Golang, Hashicorp Nomad, .Net Core but the hardpart of it, always have more ...
 
 <br>
 <br>
@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/nguyendinhnhattai1999/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
-    <a href="to:nguyendinhnhattai.it@gmail.com" target="_blank" rel="noreferrer">
+    <a href="mailto:nguyendinhnhattai.it@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
 </div>

@@ -3,7 +3,7 @@
 
 [![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
-### 🔭 I’m currently working on: Python Cli, Event Driven Design, Design Pattern, Data structure & Algorithm
+### 🔭 I’m currently working on: UniApp, Event Driven Design, Data structure & Algorithm, Concurrency Model
 
 ### 🌱 I’m currently learning : Golang, Hashicorp Nomad, .Net Core but the hardpart of it, always have more ...
 

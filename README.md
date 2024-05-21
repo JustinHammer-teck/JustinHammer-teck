@@ -3,7 +3,7 @@
 
 [![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
-### 🔭 I’m currently working on: UniApp, Nix configuration, Event Driven Design, Data structure & Algorithm, Concurrency Model
+### 🔭 I’m currently working on: DIY FaaS platform, Nix configuration, Event Driven Design, Concurrency Model, .Net Memory Management, FP in C# ?!?!
 
 ### 🌱 I’m currently learning : Golang, Hashicorp Nomad, .Net Core but the hardpart of it, always have more ...
 

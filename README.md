@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently working on: DIY FaaS platform, Nix configuration, Event Driven Design, Concurrency Model, .Net Memory Management, FP in C# ?!?!
 
-### 🌱 I’m currently learning : Golang, Hashicorp Nomad, .Net Core but the hardpart of it, always have more ...
+### 🌱 I’m currently learning : Proxmox, Bash, Python Scripting, FaaS, always have more ...
 
 <br>
 <br>

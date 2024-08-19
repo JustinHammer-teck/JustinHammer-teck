@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/nguyendinhnhattai1999/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
-    <a href="mailto:nguyendinhnhattai.work@gmail.com" target="_blank" rel="noreferrer">
+    <a href="mailto:eugenenguyen@dotnetbistro.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
 </div>

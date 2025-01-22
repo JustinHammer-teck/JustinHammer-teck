@@ -3,9 +3,9 @@
 
 [![pepesussmirk](https://cdn3.emoji.gg/emojis/7200-pepesussmirk.png)](https://emoji.gg/emoji/7200-pepesussmirk)
 
-### 🔭 I’m currently working on: DIY FaaS platform, Nix configuration, Event Driven Design, Concurrency Model, .Net Memory Management, FP in C# ?!?!
+### 🔭 I’m currently working on: 
 
-### 🌱 I’m currently learning : Proxmox, Bash, Python Scripting, FaaS, always have more ...
+### 🌱 I’m currently learning : Proxmox, Bash, Python Scripting, Lua.
 
 <br>
 <br>
